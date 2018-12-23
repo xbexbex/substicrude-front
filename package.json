@@ -1,6 +1,6 @@
 {
-  "name": "react-webpack-typescript-babel-sass",
-  "version": "1.0.0",
+  "name": "substicrude-front",
+  "version": "0.0.1",
   "scripts": {
     "type-check": "tsc --noEmit",
     "type-check:watch": "npm run type-check -- --watch",
