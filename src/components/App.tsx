@@ -4,9 +4,9 @@ import 'Styles/App.scss';
 
 export default class App extends Component {
 
-  render() {
-    return (
-      <Main></Main>
-    );
-  }
+   render() {
+      return (
+         <Main></Main>
+      );
+   }
 }
